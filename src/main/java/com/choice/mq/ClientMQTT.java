@@ -8,8 +8,8 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttTopic;
 import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
 
-/**
- * 模拟一个客户端接收消息
+/** 
+ * 模拟一个客户端接收消 息  
  * 
  * @author rao
  *
